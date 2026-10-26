@@ -1,0 +1,2 @@
+train_start,train_end,test_start,test_end,train_leads,test_leads,train_wins,test_wins,holdout_win_rate,roc_auc,average_precision,brier_score,precision_top_10pct,recall_top_10pct,lift_top_10pct
+2025-01-01,2025-09-30,2025-10-01,2025-12-31,5433,1767,394,159,0.0899830220713073,0.717047623517632,0.17641458700032364,0.07917370852492844,0.21468926553672316,0.2389937106918239,2.3858863660590552

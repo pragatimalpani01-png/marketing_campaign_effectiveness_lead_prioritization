@@ -1,0 +1,2 @@
+source_channel,destination_channel,transfer_usd,estimated_leads_lost,estimated_leads_gained,estimated_net_leads,estimated_net_wins,estimated_net_booked_revenue_usd,warning
+Paid Social,Partner,21244.49,203.7,223.7,20.0,10.8,300821.19,"Mechanical scenario only. Uses historical averages and assumes no saturation, auction change or channel interaction. Test before reallocating."

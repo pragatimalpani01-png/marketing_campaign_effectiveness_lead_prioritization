@@ -1,0 +1,13 @@
+campaign_id,campaign_name,channel,lead_weight,monthly_budget_usd,quality_effect,campaign_type,notes,campaign_budget_annual_usd
+C001,Search - Brand,Paid Search,0.08,7000,0.7,High-intent search,Brand and product-name searches,84000
+C002,Search - Generic,Paid Search,0.14,12000,0.2,Non-brand search,Category and problem searches,144000
+C003,LinkedIn - Roles,Paid Social,0.1,9000,0.35,Role-targeted paid social,Job-function and seniority targeting,108000
+C004,LinkedIn - Retargeting,Paid Social,0.06,4000,0.52,Retargeting,Visitors who returned after an earlier visit,48000
+C005,Meta - Prospecting,Paid Social,0.12,5000,-0.35,Broad prospecting,Broad reach and discovery,60000
+C006,Product Webinar,Webinar,0.09,3500,0.42,Owned event,Product use cases and live Q&A,42000
+C007,Partner Webinar,Partner,0.06,3500,0.72,Partner event,Joint sessions with implementation partners,42000
+C008,Lifecycle Email,Email,0.08,1800,0.22,Lifecycle nurture,Email to opted-in prospects,21600
+C009,Newsletter Sponsorship,Email,0.06,2500,-0.12,Paid newsletter,Sponsored placements in trade newsletters,30000
+C010,SEO - Product Pages,Organic Search,0.08,4500,0.45,Product-led organic search,Comparison and solution pages,54000
+C011,SEO - Industry Guides,Organic Search,0.08,3500,0.08,Educational content,Research and practical guides,42000
+C012,Named Account Outreach,ABM,0.05,8000,0.63,Account-based marketing,Named-account programs and tailored outreach,96000

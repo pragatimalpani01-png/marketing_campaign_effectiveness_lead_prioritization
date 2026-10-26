@@ -1,0 +1,2 @@
+credit_moved_usd,share_of_booked_revenue,definition
+1855552.0,0.21161803484831102,"Half the sum of absolute channel-level differences between first-touch and last-touch credit. Measures how much credit changes channel bucket, not causal impact."
